@@ -4144,7 +4144,8 @@ var render = function() {
             ),
             _vm._v(" "),
             _c("i", {
-              staticClass: "fas fa-times cursor-pointer",
+              staticClass:
+                "fas fa-times cursor-pointer text-lg opacity-50 hover:opacity-100",
               on: { click: _vm.closeFiltersMenu }
             })
           ]

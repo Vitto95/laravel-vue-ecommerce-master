@@ -10,7 +10,7 @@
                     Filtra per:
                 </h2>
                 <i
-                    class="fas fa-times cursor-pointer"
+                    class="fas fa-times cursor-pointer text-lg opacity-50 hover:opacity-100"
                     @click="closeFiltersMenu"
                 ></i>
             </div>
